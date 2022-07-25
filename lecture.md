@@ -2,7 +2,7 @@
 
 1. 阿里巴巴
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b07a5efc-60e8-4374-99f1-c7d3122863b7/Untitled.png)
+![Untitled](./imgs/p1.png)
 
 1. 交互式证明
     
@@ -23,11 +23,11 @@
 - 模拟实现：通过无法被识别破绽的剪辑手法，制造出通过交互式验证的假象。
 - 语义安全的学术定义：假如你是一个攻击者，你通过密文在多项式时间内算不出任何有价值的信息。
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37fd3af0-3489-4b3c-aa77-39594269c9ba/Untitled.png)
+    ![Untitled](./imgs/p2.png)
     
 - 洞穴寓言：身处模拟世界的人无法区分模拟与现实，但从绝对意义上两者又是可区分。
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb84283f-ce3e-42b5-8400-0ee92253f2de/Untitled.png)
+    ![Untitled](./imgs/p3.png)
     
 
 # 二、zk的基础概念
